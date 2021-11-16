@@ -53,20 +53,26 @@ All the resources which are used in the project either we fetch those from main 
 
 ### 1.HomePage:-
 
+![home page](https://user-images.githubusercontent.com/86410279/142067892-8dc2d9e9-febe-44f0-84bf-27a2a230728d.PNG)
 
 
-### 2. Course Section:-
+### 2.Course Section:-
+![course section](https://user-images.githubusercontent.com/86410279/142067928-c70477f1-5591-471e-b6dc-0dd25bdff47b.PNG)
 
 
 ### 3.login signup page:-
+![login page](https://user-images.githubusercontent.com/86410279/142067949-04996398-2d4d-48d8-9dca-be4e128ece92.PNG)
 
 
 ### 4.apply amrita university page:-
+![apply amrita](https://user-images.githubusercontent.com/86410279/142067977-d757f920-a6c8-4f5b-a5ad-c43ca2cb7c6a.PNG)
 
 
 ### 5.Videos Page:-
+![video page](https://user-images.githubusercontent.com/86410279/142067990-f4ffd891-8caf-4c5b-9065-2f6eb74d6e3b.PNG)
 
-
+### 5.Form Page:-
+![admission portel](https://user-images.githubusercontent.com/86410279/142068028-2c19273c-26be-41c6-880c-0e4301e50433.PNG)
 
 
 
